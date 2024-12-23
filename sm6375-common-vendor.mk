@@ -536,10 +536,8 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.vpp@1.2 \
     vendor.qti.hardware.vpp@1.3 \
     vendor.qti.hardware.vpp@2.0 \
-    audio.primary.holi \
     sound_trigger.primary.holi \
     libFileMux_proprietary \
-    liba2dpoffload \
     libacdb-fts \
     libacdbloader \
     libacdbrtac \
@@ -548,20 +546,15 @@ PRODUCT_PACKAGES += \
     libaudcal \
     libaudio_log_utils \
     libaudioparsers \
-    libbatterylistener \
     libcapiv2svacnn \
     libcapiv2svarnn \
     libcapiv2vop \
-    libcomprcapture \
-    libexthwplugin \
     libfastcrc \
     libgcs-calwrapper \
     libgcs-ipc \
     libgcs-osal \
     libgcs \
-    libhdmiedid \
     libhdmipassthru \
-    libhfp \
     liblistensoundmodel2 \
     libmm-hdcpmgr \
     libmmrtpdecoder_proprietary \
@@ -575,9 +568,6 @@ PRODUCT_PACKAGES += \
     libqcodec2_utils \
     libqcodec2_v4l2codec \
     libqtigef \
-    libsndmonitor \
-    libspkrprot \
-    libssrec \
     libwfdcodecv4l2_proprietary \
     libwfdcommonutils_proprietary \
     libwfdconfigutils_proprietary \
@@ -950,7 +940,6 @@ PRODUCT_PACKAGES += \
     vendor.qti.imsrtpservice@3.0 \
     vendor.qti.imsrtpservice@3.1 \
     vendor.oplus.hardware.performance-V1-ndk_platform \
-    libaudioEngineerTest \
     liboplus-uah-client \
     liboplus_service \
     libwvhidl \
