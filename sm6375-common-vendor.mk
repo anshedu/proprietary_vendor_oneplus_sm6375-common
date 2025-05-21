@@ -913,11 +913,11 @@ PRODUCT_PACKAGES += \
     libwfduibcsinkinterface \
     libwfduibcsrc \
     libwfduibcsrcinterface \
-    com.qualcomm.qti.wifidisplayhal@1.0 \
     libwfdavenhancements \
     libwfdmmsrc_system \
     libwfdservice \
     vendor.qti.hardware.wifidisplaysession@1.0 \
+    vendor.qti.hardware.wifidisplaysession_aidl-V1-ndk \
     com.qualcomm.qti.dpm.api@1.0 \
     lib-imsvideocodec \
     lib-imsvt \
@@ -932,6 +932,7 @@ PRODUCT_PACKAGES += \
     libimsmedia_jni \
     libwfdnative \
     vendor.qti.ImsRtpService-V1-ndk \
+    vendor.qti.diaghal-V1-ndk \
     vendor.qti.diaghal@1.0 \
     vendor.qti.hardware.dpmaidlservice-V1-ndk \
     vendor.qti.hardware.dpmservice@1.0 \
@@ -943,6 +944,8 @@ PRODUCT_PACKAGES += \
     libwvhidl \
     libwvdrmengine \
     vendor.oplus.hardware.appradio@1.0 \
+    vendor.oplus.hardware.communicationcenter_compat@1.0 \
+    vendor.oplus.hardware.communicationcenter_compat@1.1 \
     vendor.oplus.hardware.ims@1.0 \
     vendor.oplus.hardware.radio@1.0 \
     vendor.oplus.hardware.urcc-V1-ndk_platform \
